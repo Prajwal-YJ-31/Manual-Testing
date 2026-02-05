@@ -1,11 +1,13 @@
 # Manual-Testing
-Manual Testing Projects Repository
+#Manual Testing Projects Repository
+
 📌 Overview
 
 This repository contains a collection of Manual Testing projects created to demonstrate industry-standard software testing practices.
 Each project follows the Software Testing Life Cycle (STLC) and includes complete QA documentation such as test plans, test scenarios, test cases, defect reports, and test summary reports.
 
 The purpose of this repository is to showcase my practical understanding of manual testing concepts, documentation skills, and defect management, as expected from a professional QA / Software Test Engineer.
+
 
 🎯 Repository Objectives
 
@@ -18,6 +20,7 @@ Create professional QA documentation
 Demonstrate requirement coverage and defect reporting
 
 Build a strong testing portfolio for interviews and job applications
+
 
 🔁 Software Testing Life Cycle (STLC)
 
@@ -35,6 +38,7 @@ Test Execution – Executing test cases and logging defects
 
 Test Closure – Preparing test summary reports and quality assessment
 
+
 🧪 Types of Testing Covered
 
 Manual Testing
@@ -46,6 +50,7 @@ Smoke Testing
 Regression Testing
 
 User Acceptance Testing (UAT – basic)
+
 
 📑 Standard Documents Included
 
@@ -69,6 +74,7 @@ Test Summary Report
 
 These documents are prepared using industry-standard formats commonly used in real projects.
 
+
 🐞 Defect Management Approach
 
 Defects are documented with:
@@ -87,6 +93,7 @@ Defect Lifecycle Followed:
 
 New → Assigned → Open → Fixed → Retest → Closed
 
+
 🛠 Tools & Technologies Used
 
 Microsoft Excel / Google Sheets – Test cases, RTM, defect tracking
@@ -97,6 +104,7 @@ Git & GitHub – Version control and repository management
 
 Jira - Bug tracking & sprint management
 
+
 📊 Quality & Coverage
 
 Test cases are mapped to requirements using RTM
@@ -104,6 +112,7 @@ Test cases are mapped to requirements using RTM
 Focus on maximum functional coverage
 
 Emphasis on identifying high-risk and critical scenarios
+
 
 🎓 Key Skills Demonstrated
 
@@ -119,10 +128,13 @@ QA documentation standards
 
 Analytical and attention-to-detail skills
 
+
 👤 Author
 
 Name: Prajwal Y J
+
 Role: Aspiring QA / Software Test Engineer
+
 Core Skills: Manual Testing, STLC, Test Case Design, Defect Management
 
 📌 Note
