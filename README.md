@@ -1,28 +1,23 @@
 # Manual-Testing
 <h1>Manual Testing Projects Repository</h1>
 
-📌 Overview
+<h2>📌 Overview</h2>
 
-This repository contains a collection of Manual Testing projects created to demonstrate industry-standard software testing practices.
+<p>This repository contains a collection of Manual Testing projects created to demonstrate industry-standard software testing practices.
 Each project follows the Software Testing Life Cycle (STLC) and includes complete QA documentation such as test plans, test scenarios, test cases, defect reports, and test summary reports.
 
-The purpose of this repository is to showcase my practical understanding of manual testing concepts, documentation skills, and defect management, as expected from a professional QA / Software Test Engineer.
+The purpose of this repository is to showcase my practical understanding of manual testing concepts, documentation skills, and defect management, as expected from a professional QA / Software Test Engineer.</p>
 
+<h2>🎯 Repository Objectives</h2>
+<ul>
+<li>Apply manual testing concepts in real-world scenarios</li>
+<li>Follow end-to-end STLC methodology</li>
+<li>Create professional QA documentation</li>
+<li>Demonstrate requirement coverage and defect reporting</li>
+<li>Build a strong testing portfolio for interviews and job applications</li>
+</ul>
 
-🎯 Repository Objectives
-
-Apply manual testing concepts in real-world scenarios
-
-Follow end-to-end STLC methodology
-
-Create professional QA documentation
-
-Demonstrate requirement coverage and defect reporting
-
-Build a strong testing portfolio for interviews and job applications
-
-
-🔁 Software Testing Life Cycle (STLC)
+<h2>🔁 Software Testing Life Cycle (STLC)</h2>
 
 All projects in this repository follow the standard STLC phases:
 
@@ -105,7 +100,7 @@ Git & GitHub – Version control and repository management
 Jira - Bug tracking & sprint management
 
 
-📊 Quality & Coverage
+<h2>📊 Quality & Coverage</h2>
 
 Test cases are mapped to requirements using RTM
 
@@ -114,30 +109,23 @@ Focus on maximum functional coverage
 Emphasis on identifying high-risk and critical scenarios
 
 
-🎓 Key Skills Demonstrated
+<h2>🎓 Key Skills Demonstrated</h2>
+<ul>
+<li>Manual Testing fundamentals</li>
+<li>STLC implementation</li>
+<li>Test case design techniques</li>
+<li>Defect reporting & analysis</li>
+<li>QA documentation standards</li>
+<li>Analytical and attention-to-detail skills</li>
+</ul>
 
-Manual Testing fundamentals
+<h2>👤 Author</h2>
 
-STLC implementation
-
-Test case design techniques
-
-Defect reporting & analysis
-
-QA documentation standards
-
-Analytical and attention-to-detail skills
-
-
-👤 Author
-
-Name: Prajwal Y J
-
-Role: Aspiring QA / Software Test Engineer
-
+Name: Prajwal Y J<br>
+Role: Aspiring QA / Software Test Engineer<br>
 Core Skills: Manual Testing, STLC, Test Case Design, Defect Management
 
-📌 Note
+<h2>📌 Note</h2>
 
 This repository is maintained for learning, practice, and portfolio demonstration purposes.
 All projects are designed to reflect real-world testing scenarios and professional QA standards.
