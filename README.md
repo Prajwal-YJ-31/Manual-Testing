@@ -18,96 +18,65 @@ The purpose of this repository is to showcase my practical understanding of manu
 </ul>
 
 <h2>🔁 Software Testing Life Cycle (STLC)</h2>
+<h3>All projects in this repository follow the standard STLC phases:</h3>
+<ul>
+<li>Requirement Analysis – Understanding and identifying testable requirements</li>
+<li>Test Planning – Defining scope, approach, risks, and deliverables</li>
+<li>Test Case Design – Creating test scenarios, test cases, and test data</li>
+<li>Test Environment Setup – Preparing environment and performing smoke testing</li>
+<li>Test Execution – Executing test cases and logging defects</li>
+<li>Test Closure – Preparing test summary reports and quality assessment</li>
+</ul>
 
-All projects in this repository follow the standard STLC phases:
+<h2>🧪 Types of Testing Covered</h2>
+<ul>
+<li>Manual Testing</li>
+<li>Functional Testing</li>
+<li>Smoke Testing</li>
+<li>Regression Testing</li>
+<li>User Acceptance Testing (UAT – basic)</li>
+</ul>
 
-Requirement Analysis – Understanding and identifying testable requirements
-
-Test Planning – Defining scope, approach, risks, and deliverables
-
-Test Case Design – Creating test scenarios, test cases, and test data
-
-Test Environment Setup – Preparing environment and performing smoke testing
-
-Test Execution – Executing test cases and logging defects
-
-Test Closure – Preparing test summary reports and quality assessment
-
-
-🧪 Types of Testing Covered
-
-Manual Testing
-
-Functional Testing
-
-Smoke Testing
-
-Regression Testing
-
-User Acceptance Testing (UAT – basic)
-
-
-📑 Standard Documents Included
-
-Most projects include the following QA artifacts:
-
-Requirement Analysis Document
-
-Test Plan
-
-Test Scenarios
-
-Test Cases
-
-Requirement Traceability Matrix (RTM)
-
-Bug / Defect Report
-
-Test Execution Report
-
-Test Summary Report
-
+<h2>📑 Standard Documents Included</h2>
+<h3>Most projects include the following QA artifacts:</h3>
+<ul>
+<li>Requirement Analysis Document</li>
+<li>Test Plan</li>
+<li>Test Scenarios</li>
+<li>Test Cases</li>
+<li>Requirement Traceability Matrix (RTM)</li>
+<li>Bug / Defect Report</li>
+<li>Test Execution Report</li>
+<li>Test Summary Report</li>
+</ul>
 These documents are prepared using industry-standard formats commonly used in real projects.
 
-
-🐞 Defect Management Approach
-
-Defects are documented with:
-
-Clear summary and description
-
-Steps to reproduce
-
-Expected vs actual results
-
-Severity and priority
-
-Defect status
-
-Defect Lifecycle Followed:
-
+<h2>🐞 Defect Management Approach</h2>
+<h3>Defects are documented with:</h3>
+<ul>
+<li>Clear summary and description</li>
+<li>Steps to reproduce</li>
+<li>Expected vs actual results</li>
+<li>Severity and priority</li>
+<li>Defect status</li>
+</ul>
+<h3>Defect Lifecycle Followed:</h3>
 New → Assigned → Open → Fixed → Retest → Closed
 
-
-🛠 Tools & Technologies Used
-
-Microsoft Excel / Google Sheets – Test cases, RTM, defect tracking
-
-Markdown (.md) – Documentation
-
-Git & GitHub – Version control and repository management
-
-Jira - Bug tracking & sprint management
-
+<h2>🛠 Tools & Technologies Used</h2>
+<ul>
+<li>Microsoft Excel / Google Sheets – Test cases, RTM, defect tracking</li>
+<li>Markdown (.md) – Documentation</li>
+<li>Git & GitHub – Version control and repository management</li>
+<li>Jira - Bug tracking & sprint management</li>
+</ul>
 
 <h2>📊 Quality & Coverage</h2>
-
-Test cases are mapped to requirements using RTM
-
-Focus on maximum functional coverage
-
-Emphasis on identifying high-risk and critical scenarios
-
+<ul>
+<li>Test cases are mapped to requirements using RTM</li>
+<li>Focus on maximum functional coverage</li>
+<li>Emphasis on identifying high-risk and critical scenarios</li>
+</ul>
 
 <h2>🎓 Key Skills Demonstrated</h2>
 <ul>
